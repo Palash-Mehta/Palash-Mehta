@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on developing personal projects in Java and Pyhton using AWS SDK's.
+- 🔭 I’m currently working on developing personal projects in Java and Python using AWS SDK's.
 - 🌱 I’m currently learning Spring Boot, Software Testing, Authentication Protocols.
 - 💬 Ask me about my past projects, motorcycles, and Formula 1.
 
